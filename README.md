@@ -1,6 +1,6 @@
 # Demeter
 
-![](https://d13yacurqjgara.cloudfront.net/users/202362/screenshots/783353/dribbble_large.png)
+![image](https://github.com/DIYgod/Demeter/raw/master/Demeter.png)
 
 Demeter, goddess of agriculture, fertility, and the harvest.
 
