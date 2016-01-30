@@ -14,7 +14,9 @@ Things to keep an eye on and some notes.
 
 #### [Nov.](https://github.com/DIYgod/Demeter/tree/master/2015/11)
 
+### 2016
 
+#### [Jan.](https://github.com/DIYgod/Demeter/tree/master/2016/01)
 
 
 
